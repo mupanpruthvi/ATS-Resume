@@ -1,6 +1,8 @@
 # ResumeForge ATS - AI Resume Generator & Job Description Matcher
 
-ResumeForge ATS is a web application designed for students and job seekers to:
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/mupanpruthvi/ATS-Resume)
+
+ResumeForge ATS is a modern web application designed for students and job seekers to:
 1. **Paste Job Descriptions or Job Links** from any career site (LinkedIn, Indeed, company portals, etc.) to automatically extract requirements, target role titles, and core skills.
 2. **Upload Existing CVs** (.pdf, .docx, .txt) with automatic section parsing OR **type/edit details directly** (skills, internships, key projects, education, certifications).
 3. **Generate ATS-Optimized Resumes** tailored specifically to the target Job Description with standard single-column ATS layouts, quantified bullet points, and strong action verbs.
@@ -15,6 +17,18 @@ ResumeForge ATS is a web application designed for students and job seekers to:
    - **Download Word (.docx)**: Machine-scannable Word document formatted to ATS standards (standard margins, clean headings, no tables/graphics).
    - **Copy Plain Text**: Clean plain-text resume formatted for easy pasting into Taleo, Workday, or Greenhouse application boxes.
    - **In-Place Live Editing**: Click any line on the resume preview to edit text in real time with instant ATS score recalculation.
+
+---
+
+## 🚀 Live Cloud Deployment (1-Click)
+
+Click the badge below to deploy this project for free on **Render**:
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/mupanpruthvi/ATS-Resume)
+
+Once deployed, your live URL will be:
+`https://ats-resume-xxxx.onrender.com` (Render assigns your unique domain upon deployment)
+
 
 ---
 
